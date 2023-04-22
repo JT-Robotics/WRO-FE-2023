@@ -1,4 +1,4 @@
-Future Engineers - Beispielrepository 
+Future Engineers - Repository von JT Robotics
 ====
 
 Dieses GitHub-Repository dient als Vorlage für Teams in Future Engineers.
